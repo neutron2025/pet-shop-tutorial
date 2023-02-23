@@ -21,7 +21,7 @@ mkdir pet-shop-tutorial
 
 src/文件夹中，更改app.js来实现应用的功能。initWeb3()   initContract()  markAdopted()  handleAdopt()
 
-metamask 添加一个网络：http://127.0.0.1:7545
+metamask 添加一个网络：http://127.0.0.1:8545
 
 npm run dev
 
